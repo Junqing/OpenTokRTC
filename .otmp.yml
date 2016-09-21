@@ -1,0 +1,10 @@
+name: OpenTokRTC
+author: TokBox
+website: https://opentokrtc.com
+tags:
+ - Demo
+ - Reference
+image: //www.tokbox.com/blog/wp-content/uploads/2012/11/filters.png
+description: OpenTok reference application for the web
+platforms:
+  - js
